@@ -14,14 +14,6 @@ Ce projet utilise l'apprentissage automatique pour prédire les évaluations IMD
 - *netflix.py* : Script pour analyser les données Netflix.
 
 
-# Installation
-Clonez le dépôt et installez les dépendances :
-
-  *git clone https://github.com/ton-utilisateur/ton-repo.git
-  cd ton-repo
-  pip install -r requirements.txt*
-
-
 # Utilisation
 Pour exécuter le script principal :
   
