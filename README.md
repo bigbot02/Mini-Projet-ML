@@ -1,11 +1,11 @@
 # Projet d'Évaluation IMDB des Films
 
-Projet Machine Learning pour l'analyse des données de films et t la prédiction de leurs de leurs évaluations sur IMDb. 
+Projet Machine Learning pour l'analyse des données de films et la prédiction de leurs de leurs évaluations sur IMDb. 
 Réalisé par Safae Abid et Manal Chigueur.
 
 
 # Description
-Ce projet utilise l'apprentissage automatique pour prédire les évaluations IMDB des films en fonction des données fournies. Le modèle est entraîné à partir d'un jeu de données et utilise divers algorithmes pour fournir des évaluations précises.
+Ce projet utilise l'apprentissage automatique pour prédire les évaluations IMDB des films en fonction des données fournies.Développé en Python, le modèle est entraîné à partir d'un jeu de données et utilise divers algorithmes pour fournir des évaluations précises.
 
 
 # Contenu du Projet
