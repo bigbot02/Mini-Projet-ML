@@ -9,9 +9,6 @@ Réalisé par Safae Abid et Manal Chigueur.
 Ce projet utilise l'apprentissage automatique pour prédire les évaluations IMDB des films en fonction des données fournies. Développé en Python, le modèle est entraîné à partir d'un jeu de données et utilise divers algorithmes pour fournir des évaluations précises.
 
 
-![o](https://github.com/bigbot02/Mini-Projet-ML/assets/155531725/961b917b-7dee-413e-b033-2ab05a0babd9)
-
-
 ![mul](https://github.com/bigbot02/Mini-Projet-ML/assets/155531725/18fa10c1-6d4d-4a55-8c38-1b204def4c93)
 
 
@@ -31,6 +28,8 @@ Pour exécuter le script principal :
 Pour prédire l'évaluation d'un film donné :
 
 *python imdb.py --input "film_title"*
+
+![o](https://github.com/bigbot02/Mini-Projet-ML/assets/155531725/961b917b-7dee-413e-b033-2ab05a0babd9)
 
 
 # Contributions
