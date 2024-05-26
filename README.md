@@ -41,8 +41,7 @@ Pour prédire l'évaluation d'un film donné :
 ![o](https://github.com/bigbot02/Mini-Projet-ML/assets/155531725/961b917b-7dee-413e-b033-2ab05a0babd9)
 
 # Rapport
-
-
+Nous avons déposer le rapport au dessous des autres fichiers
 
 
 # Contributions
