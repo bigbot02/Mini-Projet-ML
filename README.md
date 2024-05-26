@@ -1,4 +1,4 @@
-# Projet sur le rating IMDB des films
+# Projet à propos des Films et leurs Ratings IMDb
 
 Projet Machine Learning pour l'analyse des données de films et la prédiction de leurs de leurs évaluations sur IMDb. 
 
