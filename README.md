@@ -40,6 +40,10 @@ Pour prédire l'évaluation d'un film donné :
 
 ![o](https://github.com/bigbot02/Mini-Projet-ML/assets/155531725/961b917b-7dee-413e-b033-2ab05a0babd9)
 
+# Rapport
+
+
+
 
 # Contributions
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request ou ouvrir une issue pour discuter des modifications proposées.
