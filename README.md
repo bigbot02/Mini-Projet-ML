@@ -2,7 +2,10 @@
 
 Projet Machine Learning pour l'analyse des données de films et la prédiction de leurs de leurs évaluations sur IMDb. 
 
-Réalisé par Safae Abid et Manal Chigueur.
+
+# Liste des étudiants du groupe
+
+Safae ABID  -  Manal CHIGUEUR
 
 
 # Description
@@ -22,6 +25,12 @@ Ce projet utilise l'apprentissage automatique pour prédire les évaluations IMD
 Pour exécuter le script principal :
   
   *python imdb.py*
+  
+# Bibliothèques nécessaires pour l'exécution des codes
+- pandas as pd
+- numpy as np
+- matplotlib.pylab
+- seaborn 
 
 
 # Exemples
