@@ -23,11 +23,13 @@ Clonez le dépôt et installez les dépendances :
 
 # Utilisation
 Pour exécuter le script principal :
+  
   *python imdb.py*
 
 
 # Exemples
 Pour prédire l'évaluation d'un film donné :
+
 *python imdb.py --input "film_title"*
 
 
